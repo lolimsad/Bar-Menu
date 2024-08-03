@@ -108,6 +108,7 @@ hr{
 }
 
 .button {
+    padding: auto;
     background-color: #e1fffb;
     color: rgb(0, 160, 131);
     text-align: center;
