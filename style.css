@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Chango&family=Chonburi&family=Gravitas+One&family=Honk&family=Sacramento&family=Shrikhand&display=swap');
+.chango-regular {
+    font-family: "Chango", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.sacramento-regular {
+    font-family: "Sacramento", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.shrikhand-regular {
+    font-family: "Shrikhand", serif;
+    font-weight: 200;
+    font-style: normal;
+}
+.gravitas-one-regular {
+    font-family: "Gravitas One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.chonburi-regular {
+    font-family: "Chonburi", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+} 
+.honk-fun {
+  font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+}
+          
+
+h1,h2,h4,p{
+    text-align: center;
+}
+
+h1{
+    font-size: 75px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-family: Honk;
+    
+}
+h2{
+    color: #ffffff;
+    font-family: Honk;
+    font-size: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+h4{
+    font-family: Sacramento;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.established{
+    font-family: Chonburi;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 10px;
+}
+
+.blue,.items{
+    max-width: 500px;
+    width: 80%;
+    background-color: #e1fffb;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 8%;
+    opacity: 0.9;
+}
+body{
+    background-image: url(resources/bkg.jpg);
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -8px;
+}
+.drink{
+    font-family: Shrikhand;
+    width:75%;
+    text-align: left;
+}
+
+.price{
+    font-family: Sacramento;
+    font-weight: 700;
+    width: 25%;
+    text-align: right;
+}
+.item p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+hr{
+    height: 2px;
+    background-color: rgb(39, 58, 163);
+    border-color:rgb(138, 232, 175)
+}
+
+.button {
+    background-color: #e1fffb;
+    color: rgb(0, 160, 131);
+    text-align: center;
+    font-family: Shrikhand;
+    font-size: 12px;
+  }
